@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
