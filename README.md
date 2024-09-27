@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
+| [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 ## Binary Search
 |  |
 | ------- |
