@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
