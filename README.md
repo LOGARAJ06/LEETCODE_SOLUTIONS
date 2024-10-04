@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
