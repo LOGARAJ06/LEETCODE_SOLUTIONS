@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
