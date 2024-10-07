@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 ## String Matching
