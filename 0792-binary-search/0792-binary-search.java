@@ -6,11 +6,6 @@ class Solution {
                 return i;
             }
         }
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=target){
-                return -1;
-            }
-        }
         return -1;
     }
 }
