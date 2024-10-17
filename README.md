@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
