@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
+| [2383-add-two-integers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
