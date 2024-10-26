@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
