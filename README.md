@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2556-convert-the-temperature) |
@@ -134,9 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
