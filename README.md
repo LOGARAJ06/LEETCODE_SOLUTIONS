@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
