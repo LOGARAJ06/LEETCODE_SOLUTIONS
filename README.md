@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
