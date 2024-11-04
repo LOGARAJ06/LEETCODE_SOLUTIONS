@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
