@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
