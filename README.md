@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1660-thousand-separator) |
+| [1954-replace-all-digits-with-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3207-make-three-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3207-make-three-strings-equal) |
