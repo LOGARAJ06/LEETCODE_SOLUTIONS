@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1660-thousand-separator) |
 | [1954-replace-all-digits-with-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3207-make-three-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3207-make-three-strings-equal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
+| [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
