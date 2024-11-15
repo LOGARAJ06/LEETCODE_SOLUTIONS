@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3207-make-three-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3207-make-three-strings-equal) |
+| [3379-score-of-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Hash Table
