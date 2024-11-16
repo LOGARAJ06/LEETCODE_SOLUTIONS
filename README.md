@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-make-three-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3207-make-three-strings-equal) |
 | [3379-score-of-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3396-valid-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
