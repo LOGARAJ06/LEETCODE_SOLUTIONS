@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1660-thousand-separator) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
