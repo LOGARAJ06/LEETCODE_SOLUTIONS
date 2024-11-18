@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
+| [1078-remove-outermost-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Enumeration
