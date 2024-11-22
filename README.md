@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1660-thousand-separator) |
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1954-replace-all-digits-with-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
