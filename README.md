@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
