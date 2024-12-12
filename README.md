@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0409-longest-palindrome) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0409-longest-palindrome) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
