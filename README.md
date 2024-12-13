@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
