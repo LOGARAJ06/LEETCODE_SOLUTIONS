@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2752-sum-multiples) |
 ## Binary Search
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2571-find-the-pivot-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
