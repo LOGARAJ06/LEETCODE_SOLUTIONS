@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
