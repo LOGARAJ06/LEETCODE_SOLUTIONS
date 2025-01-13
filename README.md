@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
