@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
