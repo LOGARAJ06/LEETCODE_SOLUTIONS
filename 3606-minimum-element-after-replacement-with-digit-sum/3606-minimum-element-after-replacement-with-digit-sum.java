@@ -1,22 +1,18 @@
 class Solution {
+    private int sumOfDigits(int num) {
+        int sum = 0;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
+    }
+    
     public int minElement(int[] nums) {
-     int a = 0;
-    int num =0;
-    int temp =0;
-
-   int min =Integer.MAX_VALUE; 
-        Arrays.sort(nums);
-       for(int i =0 ; i<nums.length ; i++){
-           num =  nums[i];
-          while(num>0){
-             temp = num%10;
-              a+=temp;
-              num/=10;
-          }
-            min = Math.min(min,a);
-            a=0;
-       }
-
-       return min;
+        int min = Integer.MAX_VALUE;
+        for (int num : nums) {
+            min = Math.min(min, sumOfDigits(num));
+        }
+        return min;
     }
 }
