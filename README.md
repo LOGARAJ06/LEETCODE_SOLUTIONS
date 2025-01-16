@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String
 |  |
 | ------- |
