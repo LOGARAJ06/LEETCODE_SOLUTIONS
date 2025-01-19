@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## String
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 <!---LeetCode Topics End-->
