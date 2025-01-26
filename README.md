@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |
