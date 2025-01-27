@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
