@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2714-left-and-right-sum-differences](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2571-find-the-pivot-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
