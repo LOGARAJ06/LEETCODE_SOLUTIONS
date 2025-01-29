@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 ## Matrix
 |  |
 | ------- |
