@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
