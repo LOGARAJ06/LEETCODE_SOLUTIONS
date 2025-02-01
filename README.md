@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
+| [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2825-minimize-string-length) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2083-three-divisors) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
