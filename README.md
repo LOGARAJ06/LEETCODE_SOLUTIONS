@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
