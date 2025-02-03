@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0841-shortest-distance-to-a-character) |
 | [0978-valid-mountain-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0978-valid-mountain-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
