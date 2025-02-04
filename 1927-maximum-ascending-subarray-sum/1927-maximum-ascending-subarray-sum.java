@@ -1,16 +1,24 @@
-public class Solution {
-
+class Solution {
     public int maxAscendingSum(int[] nums) {
-        int maxSum = 0;
-        int currentSubarraySum = nums[0];
-
-        for (int currentIdx = 1; currentIdx < nums.length; ++currentIdx) {
-            if (nums[currentIdx] <= nums[currentIdx - 1]) {
-                maxSum = Math.max(maxSum, currentSubarraySum);
-                currentSubarraySum = 0;
+        int max=0,curr=0;   
+             
+        for(int i=1;i<nums.length;i++){
+            int f=0;
+            if(nums[i]>nums[i-1]){
+                curr+=nums[i-1];
             }
-            currentSubarraySum += nums[currentIdx];
+            else{
+                curr+=nums[i-1];
+               f=1;
+            }            
+            max=Math.max(curr,max);
+            if(f==1){
+                curr=0;
+            }
         }
-        return Math.max(maxSum, currentSubarraySum);
+        if(nums[nums.length-1]+curr>max){
+            max=nums[nums.length-1]+curr;
+        }
+        return max;
     }
 }
