@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1660-thousand-separator) |
 | [1751-slowest-key](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1954-replace-all-digits-with-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2825-minimize-string-length) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
