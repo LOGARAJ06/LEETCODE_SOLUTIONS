@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
+| [1505-create-target-array-in-the-given-order](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
+| [1505-create-target-array-in-the-given-order](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2639-separate-the-digits-in-an-array) |
