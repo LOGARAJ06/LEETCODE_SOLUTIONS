@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
