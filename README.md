@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1580-shuffle-the-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0575-distribute-candies) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
