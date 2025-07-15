@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1078-remove-outermost-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
