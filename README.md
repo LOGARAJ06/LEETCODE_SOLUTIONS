@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1078-remove-outermost-parentheses](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
