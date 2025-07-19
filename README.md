@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/1610-xor-operation-in-an-array) |
