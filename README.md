@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
 |  |
@@ -356,10 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
