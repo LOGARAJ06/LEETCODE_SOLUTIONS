@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0747-min-cost-climbing-stairs) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/LOGARAJ06/LEETCODE_SOLUTIONS/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
